@@ -1,0 +1,13 @@
+Hello my name is Zenrough
+I have very little programming experience. 
+I have tried a little bit of:
+bash
+python
+
+and configured som programs in
+emacs lisp
+lua
+c
+
+In my free time i like to learn Japanese
+
