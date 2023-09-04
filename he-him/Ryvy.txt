@@ -1,0 +1,8 @@
+Hello I am Ryvy
+I have been programming for about 6 years now. 
+I have been using:
+- C#
+- Java
+- JavaScript
+- C++
+- Python
