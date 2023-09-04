@@ -1,0 +1,11 @@
+Hello I am MidnightRocket.
+I have been programming for about 7 years now. 
+I know: 
+- Java
+- JavaScript
+- Swift
+- C++
+- Shell scripting
+- Python
+
+Besides programming I like Marvel movies. 
